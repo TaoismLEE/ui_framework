@@ -1,8 +1,8 @@
 # -*- coding:utf-8 -*-
 
 import unittest
-import sys
 import time
+# import sys
 # to fix embedded version of python bug
 # sys.path.append(r"project absolute path")
 
