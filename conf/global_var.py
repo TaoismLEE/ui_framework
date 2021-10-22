@@ -47,16 +47,16 @@ PROJECT_PATH = os.path.dirname(os.path.dirname(__file__))
 # MAIL_SUBJECT = "XXXX项目 - UI自动化测试结果"
 
 # outlook email config
-MAIL_HOST = "shintsmtp.deloitte.com.cn"
+MAIL_HOST = "xxxxx"
 MAIL_PORT = 25
 MAIL_USER = ""
 MAIL_PWD = ""
-MAIL_SENDER = "yuliy@deloitte.com.cn"
+MAIL_SENDER = "xxxx@xxxx"
 
 # mail receivers
-MAIL_RECEIVERS = ["yuliy@deloitte.com.cn"]
-# MAIL_RECEIVERS = ["yuliy@deloitte.com.cn",
-#                   "erizhu@deloitte.com.cn"]
+MAIL_RECEIVERS = ["xxxx@xxxx"]
+# MAIL_RECEIVERS = ["xxxx@xxxx",
+#                   "xxxx@xxxx"]
 
 # mail subject
 MAIL_SUBJECT = "XXXX项目 - UI自动化测试结果"
