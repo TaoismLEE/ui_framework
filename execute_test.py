@@ -27,10 +27,10 @@ if __name__ == "__main__":
     result = runner.run(total_suite)
     report.close()
 
-    # currently support sending email to TencentEnterprise, TencentQQ, 163, Outlook
-    # TencentEnterprise mailbox: TE
-    # TencentQQ mailbox: QQ
-    # NetEase 163 mailbox: 163
-    # OutLook mailbox: outlook
+    # # currently support sending email to TencentEnterprise, TencentQQ, 163, Outlook
+    # # TencentEnterprise mailbox: TE
+    # # TencentQQ mailbox: QQ
+    # # NetEase 163 mailbox: 163
+    # # OutLook mailbox: outlook
     # obj_email = SendMail(report_file, "outlook")
     # obj_email.send_email()
